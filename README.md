@@ -68,12 +68,6 @@ http://127.0.0.1:5000
 
 ---
 
-## Documentation
-
-A detailed report explaining the project is included as a PDF file in this repository.
-
----
-
 ## Final Note
 
 We appreciate your interest in reviewing this project.
