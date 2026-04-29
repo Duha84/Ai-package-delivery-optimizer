@@ -4,7 +4,7 @@ Web-based package delivery optimization system using AI algorithms
 
 **Developed by:**
 Duha Imad
-Leen Anas
+& Leen Anas
 
 ---
 
