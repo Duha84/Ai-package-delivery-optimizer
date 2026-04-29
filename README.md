@@ -1,4 +1,4 @@
-# Ai-package-delivery-optimizer -  Package Delivery Optimization System
+# AI Package Delivery Optimization System
 Web-based package delivery optimization system using AI algorithms
 
 
